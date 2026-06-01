@@ -45,3 +45,6 @@ pkg
 jsm/jsm
 dist
 nats/nats
+
+# Node dependencies
+node_modules/
